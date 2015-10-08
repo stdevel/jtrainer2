@@ -1,4 +1,4 @@
 # jtrainer2
-An exam simulator written in Java, complete rewrite of [jtrainer/legacy](http://jtrainer.stankowic-development.net/)
+An exam simulator written in Java, complete rewrite of [jtrainer-legacy](https://github.com/stdevel/jtrainer-legacy)
 
-Code gets currently refactored and will follow very soon.
+Code currently get refactored and will follow soon.
